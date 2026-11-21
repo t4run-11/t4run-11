@@ -69,24 +69,17 @@
 
 ---
 
-<div align="center">
-  <sub>⭐️ Profile designed for Tarun Chourasiya. Star or fork to show support!</sub>
-</div>
-
-
 ---
 
-## 📈 Contribution Graph
+
+## 🧊 3D Contribution Calendar
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=t4run-11&bg_color=1a102b&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/t4run-11/t4run-11/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
 
 </div>
 
-
----
 
 ## 🤝 Connect With Me
 
