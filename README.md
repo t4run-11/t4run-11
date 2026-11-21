@@ -62,9 +62,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Tarun1-n&show_icons=true&theme=tokyonight" alt="Tarun's GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=t4run-11&show_icons=true&theme=tokyonight" alt="Tarun's GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats-six.vercel.app/?user=Tarun1-n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-six.vercel.app/?user=t4run-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
