@@ -72,13 +72,15 @@
 ---
 
 
-## 🧊 3D Contribution Calendar
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/t4run-11/t4run-11/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
+<img src="https://raw.githubusercontent.com/t4run-11/t4run-11/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
 </div>
+
 
 
 ## 🤝 Connect With Me
