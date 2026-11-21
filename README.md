@@ -23,7 +23,7 @@
 - 🧠 **Expertise:** LLM Orchestration, RAG Pipelines, Vector Databases, and Scalable Backend Architecture.
 - 💻 **Full Stack Capabilities:** Seamlessly integrating AI/ML backends with responsive Web UIs.
 - 💬 **Ask me about:** Python, LangChain, FastAPI, SQL queries & optimization, and Modern Web interfaces.
-- 📫 **GitHub:** [@Tarun1-n](https://github.com/T4run-11)
+- 📫 **GitHub:** [@Tarun1-n](https://github.com/t4run-11)
 
 ---
 
