@@ -72,3 +72,33 @@
 <div align="center">
   <sub>⭐️ Profile designed for Tarun Chourasiya. Star or fork to show support!</sub>
 </div>
+
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=t4run-11&bg_color=1a102b&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/t4run-11">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
